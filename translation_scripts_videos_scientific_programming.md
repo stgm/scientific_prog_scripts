@@ -68,7 +68,8 @@ In this video I'll explain how you can make use of variables
 
 Variables can be very convenient when, for example, you want to use the result from a calculation in another calculation. 
 Each variable is assigned a *name* and a *value*.
-~~~~You are free to choose the name of the variable yourself, but be sure to always choose a short and descriptive name~~~~
+
+You are free to choose the name of the variable yourself, but be sure to always choose a short and descriptive name
 
 An example.
 Imagine you want to calculate your income and expenses for the month.
@@ -553,12 +554,11 @@ That is already included in the definition.
 **Functions with one parameter**
 In this video I'll explain how to write functions with one parameter.
 
-~~~~
-We write a function that calculates the square of a random number. 
-We first declare the function by writing down "def",
-followed by the name of the function, in this case "squared".
-The function has only one parameter, that we'll call "x".
-~~~~
+> We write a function that calculates the square of a random number. 
+> We first declare the function by writing down "def",
+> followed by the name of the function, in this case "squared".
+> The function has only one parameter, that we'll call "x".
+
 The contents of the functions is kept simple: 
 the result is X multiplied by X... or: "return x... times... x".
 
